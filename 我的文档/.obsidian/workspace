@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "9bcccb2447fcd2d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1574dd5dd488c0a6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Docker技术入门与实战.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a19c146fe111b37f",
+    "type": "split",
+    "children": [
+      {
+        "id": "67c8f655ad1a5149",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f9f8786e699b26b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef916c19414dcd25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "0d42011d5197219b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8212166fc724b23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63055f08ad78f3f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Docker技术入门与实战.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1574dd5dd488c0a6",
+  "lastOpenFiles": [
+    "学习记录.md",
+    "删除文字，撤销问题.md"
+  ]
+}
