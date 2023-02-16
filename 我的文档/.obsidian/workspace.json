@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "409b87ef02bab9f9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Linux.md",
-            "mode": "source",
-            "source": false
+        "id": "c1e76351ce8bf66b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9667eb711f72f49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -97,12 +105,23 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "409b87ef02bab9f9",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "d9667eb711f72f49",
   "lastOpenFiles": [
-    "学习记录.md",
     "删除文字，撤销问题.md",
+    "未命名.md",
     "Linux.md",
-    "未命名 1.md",
-    "Docker技术入门与实战.md"
+    "未命名.canvas",
+    "Docker/Docker技术入门与实战.md",
+    "学习记录.md",
+    "未命名 1.md"
   ]
 }
